@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weighted Average Cost of Capital (WACC).md",
+                "file": "Net Present Value (NPV).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weighted Average Cost of Capital (WACC).md",
+                "file": "Net Present Value (NPV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weighted Average Cost of Capital (WACC).md",
+                "file": "Net Present Value (NPV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Weighted Average Cost of Capital (WACC).md",
+                "file": "Net Present Value (NPV).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,6 +286,9 @@
   },
   "active": "40a608a1a3840a41",
   "lastOpenFiles": [
+    "images/Screenshot 2023-03-31 at 1.14.46 pm.png",
+    "images/Screenshot 2023-03-31 at 1.08.57 pm.png",
+    "Weighted Average Cost of Capital (WACC).md",
     "images/Screenshot 2023-03-31 at 1.05.24 pm.png",
     "Basic Financial Literacy.md",
     "Cash Flow.md",
@@ -302,9 +305,6 @@
     "Depreciation.md",
     "images/Screenshot 2023-03-31 at 12.43.34 pm.png",
     "Discount Rate (r).md",
-    "images/Screenshot 2023-03-31 at 12.40.50 pm.png",
-    "images/Screenshot 2023-03-31 at 12.40.17 pm.png",
-    "Weighted Average Cost of Capital (WACC).md",
     "Assets, Equity and Debt.md",
     "Time Value of Money.md",
     "Startup Report Constituents.md",
