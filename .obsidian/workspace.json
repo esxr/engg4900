@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0882c15c504b44",
+        "id": "8b4ff673e0a6c8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "814ca67b68befe87",
+            "id": "a96d0809febeafc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGG4900.md",
+                "file": "Basic Financial Literacy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a5e816a04da60a05",
+            "id": "40a608a1a3840a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Startup Report Constituents.md",
+                "file": "Weighted Average Cost of Capital (WACC).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "dc7cf4b37628cf21",
+            "id": "83107badaccf7b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Investment Decision Process.md",
+                "file": "Free Cash Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b23e8a84d44c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cash Flow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startup Report Constituents.md",
+                "file": "Weighted Average Cost of Capital (WACC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startup Report Constituents.md",
+                "file": "Weighted Average Cost of Capital (WACC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Startup Report Constituents.md",
+                "file": "Weighted Average Cost of Capital (WACC).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,17 +284,46 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a5e816a04da60a05",
+  "active": "40a608a1a3840a41",
   "lastOpenFiles": [
+    "images/Screenshot 2023-03-31 at 1.05.24 pm.png",
+    "Basic Financial Literacy.md",
+    "Cash Flow.md",
+    "Free Cash Flow.md",
+    "images/Cash Flow 2023-03-31 12.50.49.excalidraw.md",
+    "images/Screenshot 2023-03-31 at 12.53.13 pm.png",
+    "images/Pasted Image 20230331125151_557.png",
+    "images/Pasted Image 20230331125120_019.png",
+    "images/Pasted Image 20230331125059_687.png",
+    "Cash Flow from Depreciation Tax Deduction.md",
+    "images/Screenshot 2023-03-31 at 12.49.23 pm.png",
+    "images/Screenshot 2023-03-31 at 12.49.02 pm.png",
+    "images/Screenshot 2023-03-31 at 12.46.54 pm.png",
+    "Depreciation.md",
+    "images/Screenshot 2023-03-31 at 12.43.34 pm.png",
+    "Discount Rate (r).md",
+    "images/Screenshot 2023-03-31 at 12.40.50 pm.png",
+    "images/Screenshot 2023-03-31 at 12.40.17 pm.png",
+    "Weighted Average Cost of Capital (WACC).md",
+    "Assets, Equity and Debt.md",
+    "Time Value of Money.md",
+    "Startup Report Constituents.md",
+    "Real vs Nominal Cash Flow.md",
     "Project Investment Decision Process.md",
+    "Internal Rate of Return (IRR).md",
+    "Inflation.md",
+    "Financial Discounting.md",
+    "Discounted Cash Flows (DCF).md",
+    "NPV and IRR Example.md",
+    "Net Present Value (NPV).md",
+    "Present and Future Value.md",
+    "images/Time Value of Money 2023-03-31 12.11.40.excalidraw.md",
+    "images",
+    "docs",
+    "untitled folder",
     "ENGG4900.md",
     "Conversations for Action.md",
-    "Startup Report Constituents.md",
     "Thesis (Brainstorming).md",
-    "Methodology (Rough).md",
-    "Thesis (Outline).md",
-    "Thesis (Final).md",
-    "Flow (DevOps).md",
-    "Low Fidelity Prototype.md"
+    "Methodology (Rough).md"
   ]
 }
