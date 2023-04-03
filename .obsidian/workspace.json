@@ -280,8 +280,7 @@
       "templater-obsidian:Templater": false,
       "workbench-obsidian:Workbench": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "40a608a1a3840a41",
