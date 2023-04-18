@@ -40,7 +40,12 @@ ___
 
 [[EBITDA and EBIT]]
 - `EBITDA = Sales Revenue – Operating Costs`
+	- Adds back depreciation to earnings
 - `EBIT = EBITDA – Depreciation`
+
+[[Depreciation and Tax Deduction Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+Important 
+</span>
 
 ___
 
