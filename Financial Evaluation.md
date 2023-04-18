@@ -1,3 +1,5 @@
+![[Cash Flow 2023-04-19 00.05.05.excalidraw|400]]
+
 ![[Screenshot 2023-04-19 at 12.29.14 am.png]]
 - [[Net Present Value (NPV)]]
 	- [[Cash Flow]]
@@ -15,15 +17,31 @@ Negative NPV -> Project cannot continue at current Discount Rate
 [[How do they decide discount rate]]
 
 ___
+[[Weighted Average Cost of Capital (WACC)]]
+- discount rate that is calculated by investor
+
 ![[Screenshot 2023-04-19 at 12.28.30 am.png]]
 [[Internal Rate of Return (IRR)]]
 - measure of **percentage return on investment**
 - *how to calculate:* discount rate that gives `NPV = 0`
-___
+
+Relationship between **IRR** and **Discount Rate (WACC)**
+- If `IRR > Discount Rate (WACC)`, good investment
+- If `IRR = WACC`, break even
+
 [[Discount Rate (r)]]
 - [[Real vs Nominal Discount Rate]]
 
-[[Assets, Equity and Debt]]
-- [[Depreciation]]
+___
+[[Depreciation and Tax Deduction]]
+![[Screenshot 2023-04-19 at 2.54.41 am.png]]
+- Treated as positive cash flow due to tax not paid
+- `Cash Flow from Depreciation = Depreciation per year * tax rate`
 
-[[Weighted Average Cost of Capital (WACC)]]
+[[EBITDA and EBIT]]
+- `EBITDA = Sales Revenue – Operating Costs`
+- `EBIT = EBITDA – Depreciation`
+
+___
+
+[[Assets, Equity and Debt]]
